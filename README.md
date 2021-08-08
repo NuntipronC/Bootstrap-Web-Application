@@ -1,4 +1,4 @@
-# Project_WA
+create database as name as reg and import sql flie to MySQL
 
-DATABASE 
-  reg -> student_api 
+username admin
+password admin
